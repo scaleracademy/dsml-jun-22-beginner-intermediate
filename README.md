@@ -10,3 +10,4 @@ This repository contains all the lecture material explained during the sessions.
 |---------|-------|-------------|
 | 1. | Python Refresher - 1 | [Refresher_1](Python_Refresher_1.ipynb) |
 | 2. | Python Refresher - 2 | [Refresher_2](Python_Refresher_2.ipynb) |
+| 3. | Python Refresher - 3 | [Refresher_3](Python_Refresher_3.ipynb) |
