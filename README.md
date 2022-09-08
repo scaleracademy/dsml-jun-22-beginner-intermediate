@@ -14,6 +14,7 @@ This repository contains all the lecture material explained during the sessions.
 | 4. | Python Refresher - 4 | [Refresher_4](Python_Refresher_4.ipynb) |
 | 5. | Searching | [Searching](Searching.ipynb) |
 | 6. | Sorting & Time Complexity - 1 | [Sorting_Time_Complexity_1](Sorting_1.ipynb) |
+| 7. | Sorting & Time Complexity - 3 | [Sorting_Time_Complexity_3](Sorting_3.ipynb) |
 
 ## Extra Reference
 
