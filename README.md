@@ -15,6 +15,7 @@ This repository contains all the lecture material explained during the sessions.
 | 5. | Searching | [Searching](Searching.ipynb) |
 | 6. | Sorting & Time Complexity - 1 | [Sorting_Time_Complexity_1](Sorting_1.ipynb) |
 | 7. | Sorting & Time Complexity - 3 | [Sorting_Time_Complexity_3](Sorting_3.ipynb) |
+| 8. | Object Oriented Programming - 1 | [OOP_101](OOP_101.ipynb) |
 
 ## Extra Reference
 
