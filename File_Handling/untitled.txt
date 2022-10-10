@@ -1,0 +1,9 @@
+Hello this is our first file
+
+that we are going to open
+
+This is some magic:
+1
+2
+3
+4
